@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.styles" parent="Theme.AppCompat.Light.NoActionBar">
+<!--        <item name="fontFamily">@font/haresora</item>-->
+    </style>
+</resources>

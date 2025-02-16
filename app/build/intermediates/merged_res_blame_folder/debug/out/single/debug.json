@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_reload.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\reload.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_setsumei_img01.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\setsumei_img01.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_emotone.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\emotone.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_keisokugamenn.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\keisokugamenn.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_thumb_energy.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_thumb_energy.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_carehul_2_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\carehul_2_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_main.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_setumei_button_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\setumei_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_setsumei_img01.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\setsumei_img01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_thema2.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\drawable\\thema2.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_use.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\use.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_thumb_calm.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_thumb_calm.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_energy_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\energy_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_energy.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_energy.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_keisoku_button_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\keisoku_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_setumei_img02_smile.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\setumei_img02_smile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\font_logo.otf.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\font\\logo.otf"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_keisoku.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\keisoku.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_joy_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\joy_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_smile_dog.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\smile_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_activity_setumei.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\activity_setumei.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_result_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\result_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_joy_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_joy_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_logo_mlkit.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\logo_mlkit.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_bar_smile.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_bar_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_smile.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_setumei_img02.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\setumei_img02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_bar_calm.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_bar_calm.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_left_yazirusi.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\left_yazirusi.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_list_item_background.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout-land_activity_vision_live_preview.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout-land\\activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_syorui_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\syorui_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xxxhdpi_title.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xxxhdpi\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_joy.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_joy.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_energy_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_energy_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_calm.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_calm.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_activity_vision_live_preview.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "com.google.mlkit.vision.demo.app-merged_res-21:/layout_activity_setumei.xml.flat",
+        "source": "com.google.mlkit.vision.demo.app-main-23:/layout/activity_setumei.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_calm_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_calm_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_smile_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_smile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_syorui.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\syorui.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_thumb_joy.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_thumb_joy.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_back_button_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\back_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\layout_activity_empath.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\layout\\activity_empath.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_setumei_img02_tone.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\setumei_img02_tone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\font_haresora.otf.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\font\\haresora.otf"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-mdpi_title.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-mdpi\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-mdpi_thema2.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-mdpi\\thema2.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_bar_energy.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_bar_energy.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_carehul_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\carehul_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_simasima.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\simasima.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_smile_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\smile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-v24_sankaku.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-v24\\sankaku.png"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_thumb_smile.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_thumb_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_calm_bg.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\calm_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_seekbar_progress_bar_joy.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\seekbar_progress_bar_joy.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_thema.jpg.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\thema.jpg"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-debug-22:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-merged_res-21:\\drawable-xhdpi_triangle.png.flat",
+        "source": "C:\\Users\\it222035.TSITCL\\.gradle\\daemon\\7.5\\com.google.mlkit.vision.demo.app-main-23:\\drawable-xhdpi\\triangle.png"
+    }
+]

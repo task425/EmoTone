@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="@color/yellowgreen"
+        android:textSize="30dp"
+        android:text="テーマを\n選択してください"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:fontFamily="@font/logo"
+        android:elevation="10dp"
+        android:layout_marginBottom="30dp"/>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="10dp">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333"
+            android:layout_marginBottom="10dp"
+            android:textSize="24dp"
+            android:fontFamily="@font/logo"
+            android:text="全快の笑顔" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333"
+            android:fontFamily="@font/logo"
+            android:layout_marginBottom="10dp"
+            android:textSize="24dp"
+            android:text="しわにならないような笑顔" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333"
+            android:fontFamily="@font/logo"
+            android:layout_marginBottom="10dp"
+            android:textSize="24dp"
+            android:text="面接の表情" />
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#333"
+            android:fontFamily="@font/logo"
+            android:layout_marginBottom="10dp"
+            android:textSize="24dp"
+            android:text="電話対応の表情" />
+
+        <!-- 追加のRadioButtonを配置 -->
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/okButton"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:background="@drawable/energy_bg"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="40dp"
+        android:text="OK"
+        android:textSize="24dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,219 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.mlkit.vision.demo"
+4    android:installLocation="auto"
+5    android:versionCode="11"
+6    android:versionName="1.11" >
+7    <!--
+8 CameraX libraries require minSdkVersion 21, while this quickstart app
+9    supports low to 19. Needs to use overrideLibrary to make the merger tool
+10    ignore this conflict and import the libraries while keeping the app's lower
+11    minSdkVersion value. In code, will check SDK version, before calling CameraX
+12    APIs.
+13    -->
+14    <uses-sdk
+14-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:13:5-157
+15        android:minSdkVersion="19"
+15-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:13:5-157
+16        android:targetSdkVersion="31" />
+16-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:13:5-157
+17
+18    <uses-feature android:name="android.hardware.camera" />
+18-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:15:5-60
+18-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:15:19-57
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:17:5-67
+20-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:17:22-64
+21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+21-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:18:5-71
+21-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:18:22-68
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:19:5-81
+22-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:19:22-78
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:20:5-80
+23-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:20:22-77
+24    <uses-permission android:name="android.permission.CAMERA" />
+24-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:21:5-65
+24-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:21:22-62
+25
+26    <queries>
+26-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:23:5-27:15
+27        <intent>
+27-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:24:9-26:18
+28            <action android:name="android.media.action.IMAGE_CAPTURE" />
+28-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:25:13-73
+28-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:25:21-70
+29        </intent>
+30    </queries>
+31
+32    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+33    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+34    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+34-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+34-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
+35
+36    <application
+36-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:29:5-70:19
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.5.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\08fca86581c92797db2a9d1ed5939454\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+38        android:debuggable="true"
+39        android:icon="@drawable/icon"
+39-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:30:9-38
+40        android:label="EMOTONE"
+40-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:31:9-32
+41        android:testOnly="true"
+42        android:theme="@style/Theme.AppCompat" >
+42-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:32:9-47
+43        <meta-data
+43-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:34:9-36:69
+44            android:name="com.google.android.gms.version"
+44-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:35:13-58
+45            android:value="@integer/google_play_services_version" />
+45-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:36:13-66
+46        <!--
+47 Optional: Add it to automatically download ML model to device after
+48          your app is installed.
+49        -->
+50        <meta-data
+50-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:41:9-43:114
+51            android:name="com.google.mlkit.vision.DEPENDENCIES"
+51-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:42:13-64
+52            android:value="barcode,face,ocr,ocr_chinese,ocr_devanagari,ocr_japanese,ocr_korean,ica,custom_ica" />
+52-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:43:13-111
+53
+54        <activity
+54-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:45:9-54:20
+55            android:name="com.google.mlkit.vision.demo.MainActivity"
+55-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:46:13-41
+56            android:exported="true"
+56-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:47:13-36
+57            android:theme="@style/AppTheme" >
+57-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:48:13-44
+58            <intent-filter>
+58-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:49:13-53:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:50:17-69
+59-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:50:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:52:17-77
+61-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:52:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:55:9-62:20
+65            android:name="com.google.mlkit.vision.demo.java.LivePreviewActivity"
+65-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:56:13-53
+66            android:exported="false"
+66-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:57:13-37
+67            android:screenOrientation="portrait" >
+67-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:58:13-49
+68            <meta-data
+68-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:59:13-61:36
+69                android:name="android.app.lib_name"
+69-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:60:17-52
+70                android:value="" />
+70-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:61:17-33
+71        </activity>
+72        <activity
+72-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:63:9-69:20
+73            android:name="com.google.mlkit.vision.demo.SetumeiActivity"
+73-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:64:13-44
+74            android:exported="false" >
+74-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:65:13-37
+75            <meta-data
+75-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:59:13-61:36
+76                android:name="android.app.lib_name"
+76-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:60:17-52
+77                android:value="" />
+77-->C:\Users\it222035.TSITCL\AndroidStudioProjects\Emotone\app\src\main\AndroidManifest.xml:61:17-33
+78        </activity>
+79
+80        <service
+80-->[com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\c1f4f4249405571c793600cf966fd7c7\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:9:9-15:19
+81            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+81-->[com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\c1f4f4249405571c793600cf966fd7c7\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:10:13-91
+82            android:directBootAware="true"
+82-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:17:13-43
+83            android:exported="false" >
+83-->[com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\c1f4f4249405571c793600cf966fd7c7\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:11:13-37
+84            <meta-data
+84-->[com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\c1f4f4249405571c793600cf966fd7c7\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:12:13-14:85
+85                android:name="com.google.firebase.components:com.google.mlkit.vision.segmentation.internal.SegmentationRegistrar"
+85-->[com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\c1f4f4249405571c793600cf966fd7c7\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:13:17-130
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\c1f4f4249405571c793600cf966fd7c7\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:14:17-82
+87            <meta-data
+87-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\5c56ef82b6f514c14cf705075dac8ccc\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:12:13-14:85
+88                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+88-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\5c56ef82b6f514c14cf705075dac8ccc\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:13:17-114
+89                android:value="com.google.firebase.components.ComponentRegistrar" />
+89-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\5c56ef82b6f514c14cf705075dac8ccc\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:14:17-82
+90            <meta-data
+90-->[com.google.mlkit:vision-common:17.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\834cd88270229a89f2ce01e9f0314713\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:12:13-14:85
+91                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+91-->[com.google.mlkit:vision-common:17.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\834cd88270229a89f2ce01e9f0314713\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:13:17-124
+92                android:value="com.google.firebase.components.ComponentRegistrar" />
+92-->[com.google.mlkit:vision-common:17.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\834cd88270229a89f2ce01e9f0314713\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:14:17-82
+93            <meta-data
+93-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:20:13-22:85
+94                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+94-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:21:17-120
+95                android:value="com.google.firebase.components.ComponentRegistrar" />
+95-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:22:17-82
+96        </service>
+97
+98        <provider
+98-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:9:9-13:38
+99            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+99-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:10:13-78
+100            android:authorities="com.google.mlkit.vision.demo.mlkitinitprovider"
+100-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:11:13-69
+101            android:exported="false"
+101-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:12:13-37
+102            android:initOrder="99" />
+102-->[com.google.mlkit:common:18.1.0] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\bbd886b42335b1e9025f153c4e232b07\transformed\jetified-common-18.1.0\AndroidManifest.xml:13:13-35
+103
+104        <activity
+104-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\f78e7e6220a1ab772775204b141c113f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+105            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+105-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\f78e7e6220a1ab772775204b141c113f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+106            android:exported="false"
+106-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\f78e7e6220a1ab772775204b141c113f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+107            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+107-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\f78e7e6220a1ab772775204b141c113f\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+108
+109        <service
+109-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+110            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+110-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+111            android:exported="false" >
+111-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+112            <meta-data
+112-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+113                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+113-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+114                android:value="cct" />
+114-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\6208106f0cda8afc3a2aca5183e85ea4\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+115        </service>
+116        <service
+116-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+117            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+117-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+118            android:exported="false"
+118-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+119            android:permission="android.permission.BIND_JOB_SERVICE" >
+119-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+120        </service>
+121
+122        <receiver
+122-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+123            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+123-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+124            android:exported="false" />
+124-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\it222035.TSITCL\.gradle\caches\transforms-3\257ef01c9156a2bb2752b2d53637bd85\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+125    </application>
+126
+127</manifest>
